@@ -1,3 +1,4 @@
 cambio en text1.txt desde gitLocal
 segundo cambio en text1.txt desde git local
 tercer cambio realizado desde gitlocal desde rama1
+cuarto cambio realizado desde gitlocal desde rama1
